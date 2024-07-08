@@ -1,0 +1,135 @@
+.introduction_text2 {
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 8px;
+  color: crimson;
+  margin-bottom: 7px;
+}
+
+.github_button {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  transition: opacity 0.40s;
+}
+
+.github_button:hover {
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.63);
+}
+
+.github_button:active {
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.63);
+}
+
+.LinkedIn_button {
+  background-color: rgb(13, 84, 236);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: box-shadow 0.35s;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.LinkedIn_button:hover {
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.63);
+}
+
+.Leetcode_button {
+  background-color: rgb(255, 166, 0);
+  color: black;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: box-shadow 0.35s;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Leetcode_button:hover {
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.884);
+}
+
+.portfolio_text {
+  color: white;
+  padding: 10px;
+  background-color: rgb(204, 49, 49);
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: bold;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+.span_example {
+  text-decoration: underline;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.span_example {
+  cursor: pointer;
+}
+
+.introduction_text {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 8px;
+}
+
+.search_box {
+  padding: 10px;
+  padding-top: px;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.15);
+  border: black;
+  border-radius: 15px;
+  width: 100px;
+}
+
+.about_me_1 {
+  width: 300px;
+  font-family: Roboto;
+  color: rgb(226, 86, 43);
+  font-weight: Bold;
+  font-size: 12px;
+}
+
+.about_me_2 {
+  width: 300px;
+  font-family: Roboto;
+  color: rgb(14, 13, 13);
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.Image_Style {
+  max-width: 25%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.Content_Centre {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  height: 100vh;
+}
